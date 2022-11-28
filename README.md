@@ -2,7 +2,8 @@
 - 👀 I’m interested in distributed computing.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 I'm `@jaymcor@mas.to` on <a rel="me" href="https://mas.to/@jaymcor">Mastodon</a>.
+
+<div>I'm `@jaymcor@mas.to` on <a rel="me" href="https://mas.to/@jaymcor">Mastodon</a>.</div>
 
 <!---
 jaymcor/jaymcor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
